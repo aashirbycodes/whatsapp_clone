@@ -114,7 +114,7 @@ export default function Home() {
             </div>
 
             <div className="self-end bg-[#d9fdd3] rounded-lg rounded-tr-none p-3 shadow-sm max-w-[70%]">
-              <p className="text-sm text-gray-800">I'm good! What about you?</p>
+              <p className="text-sm text-gray-800">I&apos;m good! What about you?</p>
               <p className="text-[10px] text-gray-400 text-right mt-2">10:31 PM ✓✓</p>
             </div>
 
@@ -124,7 +124,7 @@ export default function Home() {
             </div>
 
             <div className="self-end bg-[#d9fdd3] rounded-lg rounded-tr-none p-3 shadow-sm max-w-[70%]">
-              <p className="text-sm text-gray-800">That's awesome bro! 🚀</p>
+              <p className="text-sm text-gray-800">That&apos;s awesome bro! 🚀</p>
               <p className="text-[10px] text-gray-400 text-right mt-2">10:35 PM ✓✓</p>
             </div>
           </div>
